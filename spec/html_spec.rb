@@ -1,3 +1,13 @@
+<
+<head>
+<html>
+  <body>
+    <title>Wedding Invitation</title>
+    <table>
+  </body>
+
+</html>
+
 require "pry"
 
 RSpec.describe 'structure' do
